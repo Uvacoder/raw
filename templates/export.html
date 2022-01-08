@@ -34,7 +34,7 @@
         <path d="M14 13l1 2l-1 2"></path>
     </svg>Download as <strong>.html</strong></button><script>
     let content = localStorage.getItem("content");
-    let baseURL = "http://localhost:8000"
+    let baseURL = "https://rawbeta.deta.dev"
     function exportTxt() {
         window.open(baseURL+"/export/txt?content="+encodeURIComponent(content), "_blank");
     }

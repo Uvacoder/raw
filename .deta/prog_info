@@ -1,0 +1,1 @@
+{"id":"cd109d00-bd9a-4a8e-89e4-df85e202c620","space":1682,"runtime":"python3.9","name":"raw-beta","path":"u758mn","project":"a0cfnslj","account":"144798365827","region":"eu-central-1","deps":["uvicorn","fastapi~=0.71.0","jinja2","aiofiles","python-multipart","beautifulsoup4","markdown"],"envs":null,"public":true,"log_level":"debug","cron":""}
